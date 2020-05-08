@@ -12,11 +12,11 @@ app.use(express.json());
 
 // set static folder
 app.use(express.static("public"));
+app.use(express.static("db"));
 
 // routers
 // require("./routes/apiRoutes")(app);
 require("./routes/htmlRoutes")(app);
-
 
 
 

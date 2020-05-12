@@ -7,13 +7,14 @@ the user oraganize his/her thoughts and keep track of tasks that needs to be com
 
 https://vast-woodland-56787.herokuapp.com/
 
-## Technologies used in building the application
+### Technologies used in building the application
 
 * Express.js
 * Javascript
 * Fs module
 * Html
 * Css
+* Npm modules
 ___
 
 <img src="images/note.png">

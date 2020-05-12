@@ -1,4 +1,4 @@
-# note-taker
+# Note-taker
 ___
 This is an application that can be use to write, save and delete notes that can help 
 the user oraganize his/her thoughts and keep track of tasks that needs to be completed.
